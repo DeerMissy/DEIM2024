@@ -10,7 +10,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{7812823C-624F-9582-EA8B-D5B7D7C89F87}</ProjectGuid>
+    <ProjectGuid>{9A08E640-7F44-2126-BEB2-DE18309E6D1F}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -69,7 +69,6 @@
     <Compile Include="Assets\Scrips\UD01\ToLargestToSmallest.cs" />
     <Compile Include="Assets\Scrips\UD01\Month.cs" />
     <Compile Include="Assets\Scrips\UD01\Even.cs" />
-    <Compile Include="Assets\Addition.cs" />
     <Compile Include="Assets\Scrips\UD01\DescencingOrder.cs" />
   </ItemGroup>
   <ItemGroup>
