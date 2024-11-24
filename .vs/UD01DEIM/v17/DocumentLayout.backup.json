@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Yani\\Documents\\Stopmotion\\UD01DEIM\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9A08E640-7F44-2126-BEB2-DE18309E6D1F}|Assembly-CSharp.csproj|c:\\users\\yani\\documents\\stopmotion\\ud01deim\\assets\\scrips\\ud01\\descencingorder1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9A08E640-7F44-2126-BEB2-DE18309E6D1F}|Assembly-CSharp.csproj|solutionrelative:assets\\scrips\\ud01\\descencingorder1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9A08E640-7F44-2126-BEB2-DE18309E6D1F}|Assembly-CSharp.csproj|c:\\users\\yani\\documents\\stopmotion\\ud01deim\\assets\\scrips\\ud02\\flowerfighter\\enemyzombies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A08E640-7F44-2126-BEB2-DE18309E6D1F}|Assembly-CSharp.csproj|solutionrelative:assets\\scrips\\ud02\\flowerfighter\\enemyzombies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A08E640-7F44-2126-BEB2-DE18309E6D1F}|Assembly-CSharp.csproj|C:\\Users\\Yani\\Documents\\Stopmotion\\UD01DEIM\\assets\\scrips\\ud02\\flowerfighter\\playerattack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A08E640-7F44-2126-BEB2-DE18309E6D1F}|Assembly-CSharp.csproj|solutionrelative:assets\\scrips\\ud02\\flowerfighter\\playerattack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,14 +23,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "DescencingOrder1.cs",
-              "DocumentMoniker": "C:\\Users\\Yani\\Documents\\Stopmotion\\UD01DEIM\\Assets\\Scrips\\UD01\\DescencingOrder1.cs",
-              "RelativeDocumentMoniker": "Assets\\Scrips\\UD01\\DescencingOrder1.cs",
-              "ToolTip": "C:\\Users\\Yani\\Documents\\Stopmotion\\UD01DEIM\\Assets\\Scrips\\UD01\\DescencingOrder1.cs",
-              "RelativeToolTip": "Assets\\Scrips\\UD01\\DescencingOrder1.cs",
+              "Title": "EnemyZombies.cs",
+              "DocumentMoniker": "C:\\Users\\Yani\\Documents\\Stopmotion\\UD01DEIM\\Assets\\Scrips\\UD02\\FlowerFighter\\EnemyZombies.cs",
+              "RelativeDocumentMoniker": "Assets\\Scrips\\UD02\\FlowerFighter\\EnemyZombies.cs",
+              "ToolTip": "C:\\Users\\Yani\\Documents\\Stopmotion\\UD01DEIM\\Assets\\Scrips\\UD02\\FlowerFighter\\EnemyZombies.cs",
+              "RelativeToolTip": "Assets\\Scrips\\UD02\\FlowerFighter\\EnemyZombies.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T18:25:56.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PlayerAttack.cs",
+              "DocumentMoniker": "C:\\Users\\Yani\\Documents\\Stopmotion\\UD01DEIM\\Assets\\Scrips\\UD02\\FlowerFighter\\PlayerAttack.cs",
+              "RelativeDocumentMoniker": "Assets\\Scrips\\UD02\\FlowerFighter\\PlayerAttack.cs",
+              "ToolTip": "C:\\Users\\Yani\\Documents\\Stopmotion\\UD01DEIM\\Assets\\Scrips\\UD02\\FlowerFighter\\PlayerAttack.cs",
+              "RelativeToolTip": "Assets\\Scrips\\UD02\\FlowerFighter\\PlayerAttack.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-12T22:39:37.085Z",
+              "WhenOpened": "2024-11-24T17:06:27.389Z",
               "EditorCaption": ""
             }
           ]

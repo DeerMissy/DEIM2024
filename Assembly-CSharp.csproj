@@ -61,15 +61,38 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Scrips\UD01\Addition.cs" />
+    <Compile Include="Assets\Scrips\UD02\FlowerFighter\EnemyZombies.cs" />
+    <Compile Include="Assets\Scrips\UD02\EggChicken\Movement.cs" />
+    <Compile Include="Assets\Scrips\UD02\FlowerFighter\PlayerMovement.cs" />
     <Compile Include="Assets\Scrips\UD01\MultiplesOfThreeTwo.cs" />
     <Compile Include="Assets\Scrips\UD01\ToSmallestToLargest.cs" />
+    <Compile Include="Assets\EjerrcicioUD20\Supercyan Character Pack Animal People Sample\Scripts\SimpleSampleCharacterControl.cs" />
+    <Compile Include="Assets\EjerrcicioUD20\Supercyan Character Pack Animal People Sample\Scripts\FreeCameraLogic.cs" />
+    <Compile Include="Assets\EjerrcicioUD20\Supercyan Character Pack Zombie Sample\Scripts\ZombieFree.cs" />
+    <Compile Include="Assets\Scrips\UD02\FlowerFighter\FlowerClone.cs" />
     <Compile Include="Assets\Scrips\UD01\IncreasingOrder.cs" />
+    <Compile Include="Assets\EjerrcicioUD20\Supercyan Character Pack Animal People Sample\Scripts\DemoFree.cs" />
+    <Compile Include="Assets\Scrips\UD02\FlowerFighter\PlayerAttack.cs" />
     <Compile Include="Assets\Scrips\UD01\Odd.cs" />
     <Compile Include="Assets\Scrips\UD01\MultiplesOfThree.cs" />
     <Compile Include="Assets\Scrips\UD01\ToLargestToSmallest.cs" />
     <Compile Include="Assets\Scrips\UD01\Month.cs" />
+    <Compile Include="Assets\EjerrcicioUD20\Supercyan Character Pack Zombie Sample\Scripts\ZombieCharacterControl.cs" />
+    <Compile Include="Assets\EjerrcicioUD20\Supercyan Character Pack Zombie Sample\Scripts\ZombieCameraLogic.cs" />
+    <Compile Include="Assets\EjerrcicioUD20\Supercyan Character Pack Animal People Sample\Scripts\AccessoryLogic.cs" />
     <Compile Include="Assets\Scrips\UD01\Even.cs" />
+    <Compile Include="Assets\Scrips\UD02\EggChicken\Clone.cs" />
+    <Compile Include="Assets\EjerrcicioUD20\Supercyan Character Pack Animal People Sample\Scripts\AccessoryWearLogic.cs" />
+    <Compile Include="Assets\Scrips\UD02\FlowerFighter\Flower.cs" />
     <Compile Include="Assets\Scrips\UD01\DescencingOrder.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Assets\EjerrcicioUD20\Supercyan Character Pack Zombie Sample\Shaders\Legacy\CelShader.shader" />
+    <None Include="Assets\EjerrcicioUD20\Supercyan Character Pack Animal People Sample\Shaders\SupercyanShader.shader" />
+    <None Include="Assets\EjerrcicioUD20\Supercyan Character Pack Animal People Sample\Shaders\SupercyanShaderLighting.cginc" />
+    <None Include="Assets\EjerrcicioUD20\Supercyan Character Pack Zombie Sample\Shaders\SupercyanShader.shader" />
+    <None Include="Assets\EjerrcicioUD20\Supercyan Character Pack Zombie Sample\Shaders\SupercyanShaderLighting.cginc" />
+    <None Include="Assets\VertexColorFarmAnimals\Shaders\VertexColorUnlit.shader" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
