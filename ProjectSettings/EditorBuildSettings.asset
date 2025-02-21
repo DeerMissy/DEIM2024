@@ -4,5 +4,8 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/UD03/JhonLemon/JhonLemon.unity
+    guid: 95da7b18d2fd8534891fe3d6b9053e83
   m_configObjects: {}
